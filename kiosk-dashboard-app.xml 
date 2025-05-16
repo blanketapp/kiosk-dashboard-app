@@ -1,5 +1,6 @@
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
-  <app appid="cgnkfbbbdcbpadbblnindbcbemmkhcbg">
-    <updatecheck codebase="https://blanketapp.github.io/kiosk-dashboard-app/kiosk-dashboard-app.crx" version="1.0" />
-  </app>
-</gupdate>
+    <app appid="cgnkfbbbdcbpadbblnindbcbemmkhcbg">
+      <updatecheck codebase="https://blanketapp.github.io/kiosk-dashboard-app/kiosk-dashboard-app.zip" version="1.0" />
+    </app>
+  </gupdate>
+  
